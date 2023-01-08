@@ -34,3 +34,5 @@ where,
 
  n is the number of data points (1000 in this project)
 (x, y, z) is one accelerometer data point
+
+Note: accelerometor was tried to be implemented, however is giving error.
