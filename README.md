@@ -1,5 +1,7 @@
 # CloudAppFirebase
 
+Group project: Thamires Silva ID 23763| Mario Santos ID 22453
+
 The objective of this project is to develop a cloud connected mobile app to collect and upload accelerometer data and display a leaderboard. The requirements are as follows and both requirements carry equal weightage:
 
 - [x] Authenticate using Firebase1, upload data to Firestore
