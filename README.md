@@ -57,9 +57,9 @@ year: 3
 accelerometer_data: [{x: float, y: float, z: float}, {x: float, y: float, z: float}, ...upto a max of 1000 datapoints]
 Note:
 
-1To prevent unintended errors in the shared firestore, you should start development with your own firebase configuration and make sure everything works. Once everything works error free, then you can use the common firebase config (check files attached below) and the app will automatically use the same firestore and firebase auth. For your convenience, FirebaseTest app is attached below. Run and check the logs to see if you can successfully access the common Firebase.
+1. To prevent unintended errors in the shared firestore, you should start development with your own firebase configuration and make sure everything works. Once everything works error free, then you can use the common firebase config (check files attached below) and the app will automatically use the same firestore and firebase auth. For your convenience, FirebaseTest app is attached below. Run and check the logs to see if you can successfully access the common Firebase.
 
-2Calculating activity score in Kcal is a complex function, use this formula instead:
+2.Calculating activity score in Kcal is a complex function, use this formula instead:
 
 movement score = Σ(Σ|x| + Σ|y| + Σ|z|)/n
 
@@ -69,4 +69,4 @@ where,
 (x, y, z) is one accelerometer data point
 
 
-Notice: accelerometer was tried to be implemented, however is giving an error which we weren't unable to solve.
+Notice: accelerometer was tried to be implemented, however is giving an error which we were unable to solve.
