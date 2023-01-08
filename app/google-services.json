@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "1028647483140",
-    "project_id": "dorset-mobile-app-2",
-    "storage_bucket": "dorset-mobile-app-2.appspot.com"
+    "project_number": "706740149217",
+    "firebase_url": "https://cloudappfirebase-5e3fb-default-rtdb.firebaseio.com",
+    "project_id": "cloudappfirebase-5e3fb",
+    "storage_bucket": "cloudappfirebase-5e3fb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1028647483140:android:6345254ad0e32a89bf0251",
+        "mobilesdk_app_id": "1:706740149217:android:fe5baab82ebfb4ab5050a0",
         "android_client_info": {
           "package_name": "com.example.cloudappfirebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1028647483140-023q29ei9dun76t4aie1fphubb924ipa.apps.googleusercontent.com",
+          "client_id": "706740149217-ie57qfr569j4nft90qcm76uijbpk5emn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAFyKZjiNFh2g3FLFwOylCUTEf4wsPee3o"
+          "current_key": "AIzaSyByl_tyOvXX3NKSy75TcOQQaApuyjS1M6Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1028647483140-023q29ei9dun76t4aie1fphubb924ipa.apps.googleusercontent.com",
+              "client_id": "706740149217-ie57qfr569j4nft90qcm76uijbpk5emn.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
